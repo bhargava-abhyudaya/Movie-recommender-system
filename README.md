@@ -5,8 +5,14 @@ The Recommendations are made by computing similarity scores for movies using con
 # Cosine Similarity
 ![image](https://github.com/bhargava-abhyudaya/Movie-recommender-system/assets/100035845/2f228447-9689-499c-9096-0a1e037f40d4)
 
+# Files in the repository
+1) Dataset.zip - It is archived file of the original database as obtained from TMDB
+2) dataProcessing.ipynb - This jupyter notebook processes the original data and stores it into a file named 'movies_final.csv'
+3) movies_final.csv - The processed dataset used for sentiment analysis
+4) sentimentAnalysis.ipynb - Python code to train the machine learning model and recommend the movies
+
 # References 
-1) TMDB's API : https://www.themoviedb.org/documentation/api
+1) TMDB's Dataset : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 2) Cosine Similarity : https://www.machinelearningplus.com/nlp/cosine-similarity/
 
 # Example
