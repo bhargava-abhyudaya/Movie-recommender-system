@@ -11,4 +11,5 @@ The Recommendations are made by computing similarity scores for movies using con
 
 # Example
 ![image](https://github.com/bhargava-abhyudaya/Movie-recommender-system/assets/100035845/eb7101c1-4c54-488d-899b-398d6aaba31b)
+
 This is the example of the movies recommended by the system
